@@ -1,17 +1,11 @@
 {
-  "posts": [
+  "posts": 
     {
         "Ref_1": "136020062",
         "ColisDetails": "1-10",
         "NumeroSuivi": "XT122128647FR",
-        "Generation": "2019-06-19T15:10:56.1737522+02:00",
-      "id" :1
-    },
-    {
-        "Ref_1": "136020062",
-        "ColisDetails": "11-34",
-        "NumeroSuivi": "XT122128655FR",
         "Generation": "2019-06-19T15:10:56.1737522+02:00"
+
     }
-  ]
+  
 }
