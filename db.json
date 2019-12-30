@@ -2,16 +2,18 @@
   "posts": 
 [
     {
-        "Ref_1": "136020062",
-        "ColisDetails": "1-10",
-        "NumeroSuivi": "XT122128647FR",
-        "Generation": "2019-06-19T15:10:56.1737522+02:00"
+        "refExterne: "ref01",
+        "etiquette": "et01",
+        "numeroSuivi": "01",
+        "generation": "2019-06-19T15:10:56.1737522+02:00",
+        "rangColis": 1
     },
     {
-        "Ref_1": "136020062",
-        "ColisDetails": "11-34",
-        "NumeroSuivi": "XT122128655FR",
-        "Generation": "2019-06-19T15:10:56.1737522+02:00"
+        "refExterne: "ref02",
+        "etiquette": "et02",
+        "numeroSuivi": "02",
+        "generation": "2019-06-19T15:10:56.1737522+02:00",
+        "rangColis": 2
     }
 ]
   
